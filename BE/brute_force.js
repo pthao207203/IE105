@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // Địa chỉ API server
-const serverURL = 'http://localhost:5001/login';
+const serverURL = 'http://localhost:5001/M04';
 
 // Danh sách mật khẩu thử nghiệm
 const passwordList = [
